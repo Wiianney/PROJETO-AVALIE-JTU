@@ -125,6 +125,8 @@ Esse projeto contará com as seguintes Entidades e atributos
 <h2>Frontend, Backend e Banco de Dados</h2>
 <img src= "https://github.com/user-attachments/assets/eeea6941-7374-4c3e-8f1d-4675ada62701" width=1000> 
 
+<h1>👥 Usuário</h2>
+
 
 
 # <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
