@@ -35,8 +35,15 @@ Para o funcionamento, a aplicação deve conter:
 - `Desempenho`: O APP deverá funcionar com o melhor desempenho possível.
 - `Segurança`: O APP deve garantir que os dados do usuário estejam em segurança.
 
-<h1><span style='font-size:100px;'>&#128203;</span>Matriz de Requisitos Gerais</h1>
-<img src="https://github.com/user-attachments/assets/f2bf677d-6e62-40de-99b4-f63a6bc08601" width = 1000>
+<h1><span style='font-size:100px;'>&#128203;</span>Matrizes de Requisitos Gerais</h1>
+
+<h2>Matriz de Requisitos Gerais</h2>
+
+<img src="https://github.com/user-attachments/assets/309a10a7-3bc2-421c-aef0-bc90c1c63c7f" width = 1000>
+
+<h2>Matriz de Requisitos Funcionais</h2>
+
+<img src="https://github.com/user-attachments/assets/8635abbf-4613-4142-a51a-b4eb92c5fd1d" width = 1000>
 
 
 <h1>📊 Relacionamento de Dados </h1> 
