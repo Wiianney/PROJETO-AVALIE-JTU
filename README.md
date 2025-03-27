@@ -36,7 +36,7 @@ Para o funcionamento, a aplicação deve conter:
 - `Segurança`: O APP deve garantir que os dados do usuário estejam em segurança.
 
 <h1><span style='font-size:100px;'>&#128203;</span>Matriz de Requisitos Gerais</h1>
-<img src="https://github.com/user-attachments/assets/c9c2c36f-e2c6-45ff-9e91-c1dcf8817850" width = 1000>
+<img src="https://github.com/user-attachments/assets/f2bf677d-6e62-40de-99b4-f63a6bc08601" width = 1000>
 
 
 <h1>📊 Relacionamento de Dados </h1> 
@@ -121,4 +121,4 @@ Esse projeto contará com as seguintes Entidades e atributos
 
 
 # <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
-<h2> Nícolas do Nascimento Ignacio e Maria Wianney </h2>
+<h2> Nícolas do Nascimento Ignacio e Maria Wianney de Almeida </h2>
