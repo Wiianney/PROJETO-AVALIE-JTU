@@ -3,7 +3,7 @@
 
 <p>Temos como objetivo desenvolver um aplicativo mobile em que a comunidade de Jacareí de faz uso do transporte público, possa avaliar as situações dos ôibus da empresa JTU, podendo avaliar, linha, motorista e fazer reclamações ou denúncias.</p>
 <h1 align="center"> PROJETO AVALIE </h1>
-<p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE DISPOSITIVOS MÓVEIS - 4º Ano Informática do IFSP Câmpus Jacareí</p>
+<p align="center">Um trabalho para a disciplina de Desenvolvimento de Dispositivos Móveis - 4º Ano Informática do IFSP Câmpus Jacareí</p>
 <br>
 <p align="center">
 
