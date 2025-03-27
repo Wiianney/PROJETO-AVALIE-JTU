@@ -127,7 +127,9 @@ Esse projeto contará com as seguintes Entidades e atributos
 
 <h1>👥 Usuário</h2>
 
+<p>Diagrama usuário 1</p>
 
+![Image](https://github.com/user-attachments/assets/bc19d29b-b508-46bb-ba41-6048f886511b)
 
 # <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
 <h2> Nícolas do Nascimento Ignacio e Maria Wianney de Almeida </h2>
