@@ -114,7 +114,9 @@ Esse projeto contará com as seguintes Entidades e atributos
 <img src = "https://github.com/user-attachments/assets/cec8f8cc-db47-4cc8-b0de-c2ae7792bfe4" width=1000>
 
 <h1> <span style='font-size:100px;'>&#129490;</span> Usuário </h1>
-<img src = "" width=1000>
+<img src = "https://github.com/user-attachments/assets/bc19d29b-b508-46bb-ba41-6048f886511b" width=1000>
+
+<img src = "https://github.com/user-attachments/assets/c4d1173a-56ea-4903-8b0f-7e3bbd662382" width=1000> 
 
 <h1><span style='font-size:100px;'>&#128281;</span> Backup e Recuperação </h1>
 <p> Uma estratégia que combina o armazenamento local e na nuvem para proteger os dados. Ele é uma solução flexível  que pode ser usada por sitemas de todos os portes. O backup híbrido combina a vantagem do acesso rápido aos dados locais com a conveniência de acessá-los remotamente. Isso permite uma recuperação mais rápida em caso de falha no sistema local, ao mesmo tempo em que oferece a flexibilidade de acesso.
@@ -125,11 +127,6 @@ Esse projeto contará com as seguintes Entidades e atributos
 <h2>Frontend, Backend e Banco de Dados</h2>
 <img src= "https://github.com/user-attachments/assets/eeea6941-7374-4c3e-8f1d-4675ada62701" width=1000> 
 
-<h1>👥 Usuário</h2>
-
-<p>Diagrama usuário 1</p>
-
-![Image](https://github.com/user-attachments/assets/bc19d29b-b508-46bb-ba41-6048f886511b)
 
 # <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
 <h2> Nícolas do Nascimento Ignacio e Maria Wianney de Almeida </h2>
