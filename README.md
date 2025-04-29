@@ -1,7 +1,7 @@
-<h1 align = "center"> PROJETO AVALIE JTU </h1>
+<h1 align = "center"> PROJETO AVALIE TU </h1>
 <h1 align = "cneter" >OBJETIVO DO PROJETO</h1>
 
-<p>Temos como objetivo desenvolver um aplicativo mobile em que a comunidade de Jacareí de faz uso do transporte público, possa avaliar as situações dos ôibus da empresa JTU, podendo avaliar, linha, motorista e fazer reclamações ou denúncias.</p>
+<p>Temos como objetivo desenvolver um aplicativo mobile em que a comunidade de Jacareí de faz uso do transporte público, possa avaliar as situações dos ônibus da nossa cidade, podendo avaliar, linha, motorista e fazer reclamações ou denúncias.</p>
 <h1 align="center"> PROJETO AVALIE </h1>
 <p align="center">Um trabalho para a disciplina de Desenvolvimento de Dispositivos Móveis - 4º Ano Informática do IFSP Câmpus Jacareí</p>
 <br>
@@ -129,4 +129,4 @@ Esse projeto contará com as seguintes Entidades e atributos
 
 
 # <span style='font-size:100px;'>&#128101;</span> Desenvolvedores
-<h2> Nícolas do Nascimento Ignacio e Maria Wianney de Almeida </h2>
+<h2> Nícolas do Nascimento Ignacio, Maria Wianney de Almeida e Kauany Naiara da Rocha </h2>
